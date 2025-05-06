@@ -31,3 +31,16 @@ body {
     gap: 10px;
 }
 
+button {
+    padding: 20px;
+    font-size: 18px;
+    border: none;
+    background: #eaeaea;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.2s;
+}
+
+button:hover {
+    background: #dadada;
+}
